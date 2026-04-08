@@ -1,0 +1,4 @@
+{"customer_id": "c_101", "segment": "growth", "lifetime_value": 1240, "active_days": 18}
+{"customer_id": "c_102", "segment": "enterprise", "lifetime_value": 7120, "active_days": 89}
+{"customer_id": "c_103", "segment": "growth", "lifetime_value": 980, "active_days": 12}
+{"customer_id": "c_104", "segment": "self-serve", "lifetime_value": 240, "active_days": 4}
